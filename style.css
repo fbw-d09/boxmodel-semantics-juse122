@@ -1,0 +1,93 @@
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.s-0
+{
+    border-bottom: 1px solid black;
+    background-image: url(https://i.redd.it/fjkr8z1rp7p31.png);
+    background-size: 100%;
+}
+
+.s-0 img
+{
+    display: block;
+    height: 100px;
+    padding: 20px 0;
+    margin: 0 auto;
+}
+
+.s-1-1
+{
+    float: left;
+    width: calc(66% - 40px);
+    padding: 0 0 0 40px;
+}
+
+.s-1-2 {
+    float: left;
+    width: calc(33% - 40px);
+    padding: 0 40px 0 0;
+}
+
+.s-2
+{
+    float: left;
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.s-2 img
+{
+    width: 18%;
+    margin-right: 10px;
+}
+
+.s-2 img:last-child
+{
+    margin-right: 0;
+}
+
+.s-3
+{
+    float: left;
+    width: 100%;
+    text-align: center;
+    padding: 10px 0 50px 0;
+}
+
+.s-3 a
+{
+    display: inline-block;
+    box-sizing: border-box;
+    width: 250px;
+    margin: 0 5px;
+    border: 2px solid black;
+    background: rgb(240, 240, 240);
+}
+
+.s-3 a img
+{
+    height: 100px;
+    padding: 10px;
+}
+
+.s-4
+{
+    float: left;
+    text-align: center;
+    width: 100%;
+    border-top: 1px solid black;
+}
+
+.s-4 ul
+{
+    list-style: none;
+    padding: 0;
+}
+
+.s-4 ul li{
+    font-size: 12px;
+}
